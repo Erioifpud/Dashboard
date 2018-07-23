@@ -8,6 +8,10 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "@types/node": "^10.5.2",
+    "axios": "^0.18.0",
+    "chart.js": "^2.7.2",
+    "mockjs": "^1.0.1-beta3",
     "vue": "^2.5.16",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^7.0.0",
